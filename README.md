@@ -1,3 +1,7 @@
+# 🛑 **Notice** 🛑
+
+**(We prepared Report 1 and Report 2 separately earlier, then we could only update Report 1. So here we included both Reports merged.)**
+
 # Weather forecasting using Machine Learning
 
 ## 1. Create a Virtual Environment
