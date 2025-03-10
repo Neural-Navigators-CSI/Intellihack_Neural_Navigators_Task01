@@ -1,6 +1,6 @@
 # 🛑 **Notice** 🛑
 
-**(We prepared Report 1 and Report 2 separately earlier, then we could only update Report 1. So here we included both Reports merged.)**
+**(We prepared Report 1 and Report 2 separately earlier, then we could only update Report 1 beacuse there were no option to upload 2 files. So here we included both Reports merged.)**
 
 # Weather forecasting using Machine Learning
 
@@ -60,5 +60,3 @@ deactivate
 
 - Ensure `python` and `pip` are installed before running the commands.
 - If you encounter any issues, ensure your virtual environment is activated before installing dependencies or running Jupyter.
-
-Enjoy coding with Jupyter Notebook!
